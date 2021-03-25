@@ -1,0 +1,83 @@
+h1 {
+  text-align: right;
+  background-color: rgba(39, 118, 155, 0.5);
+  color: beige;
+  text-shadow: black 2px 2px 4px;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  color: rgba(39, 118, 155, 0.8);
+  margin: 30px auto 20px;
+}
+
+h3 {
+  color: rgba(110, 87, 8, 0.8);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #497ddd;
+  border-bottom: 1px dashed;
+}
+a:visited {
+  color: #ef7d55;
+}
+a:hover {
+  color: #154088;
+  border-bottom: 0.05em solid;
+}
+a:active {
+  color: #497ddd;
+  border-bottom: 1px dashed;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  color: black;
+}
+
+.wl {
+  list-style: "\25CD";
+  color: rgba(110, 87, 8, 0.8);
+}
+
+.marks {
+  line-height: 1.7;
+  list-style: "\25A8";
+  color: rgba(110, 87, 8, 0.8);
+  font-weight: 500;
+}
+
+.textC {
+  font-weight: bold;
+}
+
+.photo {
+  display: block;
+  margin: 0 auto;
+  outline: 6px solid rgba(39, 118, 155, 0.8);
+  margin-bottom: 70px;
+}
+
+.education {
+  font-style: italic;
+}
+
+.work {
+  color: #083c96;
+  font-weight: bold;
+}
+
+.skills {
+  background-color: rgba(9, 90, 128, 0.3);
+  color: beige;
+  text-shadow: black 2px 2px 6px;
+  font-size: 18px;
+}
